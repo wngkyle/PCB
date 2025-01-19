@@ -1,0 +1,7 @@
+Partlist exported from /Users/wng/Documents/EAGLE/projects/5V Regulator/5V Regulator 100ma.sch at 2023/2/23 4:44 PM
+
+Qty Value Device          Package      Parts  Description                          MF MPN     OC_FARNELL OC_NEWARK POPULARITY SPICEPREFIX
+1         78LXX           78LXX        IC1    VOLTAGE REGULATOR                                                    6                     
+1         C-EU025-025X050 C025-025X050 C1     CAPACITOR, European symbol                                           65         C          
+1         CPOL-EUE3.5-8   E3,5-8       C3     POLARIZED CAPACITOR, European symbol                                 13         C          
+2         W237-102        W237-102     X1, X2 WAGO SCREW CLAMP                        237-102 unknown    70K9898   32                    
